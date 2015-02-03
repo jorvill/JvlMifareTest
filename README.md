@@ -5,7 +5,7 @@ This project includes an application to test the library JvlMifare.dll.
 
 The application allows to:
 
-- List Omnikey Readers pluged to the PC
+- List Omnikey Readers connected to the PC
 - Connect with a Mifare Card
 - Disconnect card
 - Read Data Block
